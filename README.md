@@ -24,4 +24,4 @@ private void button1_Click(object sender, EventArgs e)
 Ich habe mein Ziel im Abschnitt *Erklärung* erreicht.
 
 ### Reflexion:
-Die Gruppenarbeit fand ich schwierig, weil zwei aus einer anderen Klasse waren und wir nicht so viel miteinander gesprochen haben. Wie auch letztes Mal versuche ich, nächstes Mal mehr auf andere zuzugehen und mit ihnen zu sprechen.
+Die Gruppenarbeit fand ich schwierig, weil zwei aus einer anderen Klasse waren und wir zu wenig miteinander gesprochen haben. In Zukunft werde ich versuchen, mehr zu kommunizieren.
